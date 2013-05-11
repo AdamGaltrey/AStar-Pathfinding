@@ -1,0 +1,9 @@
+name: Pathfinding
+main: com.adamki11s.path.Pathfinding
+version: 1.0.0
+author: Adamki11s
+commands:
+  path:
+    aliases: p
+    description: QuestX
+    usage: /QuestX [args]
